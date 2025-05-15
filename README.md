@@ -1,4 +1,4 @@
-🚗 Self-Driving Car Simulation (Pure JavaScript – No Libraries)
+#🚗 Self-Driving Car Simulation (Pure JavaScript – No Libraries)
 This project is a complete self-driving car simulation built entirely using vanilla JavaScript without any external libraries or machine learning frameworks. It demonstrates how neural networks, basic physics, and interactive graphics can be combined to simulate autonomous driving behavior directly in the browser.
 
 📚 Project Features
